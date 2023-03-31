@@ -15,3 +15,5 @@ Once the setup is complete, run the project
 ```bash
   npm run dev
 ```
+
+[Website Live Version](https://gpt3-website-react.netlify.app/)
